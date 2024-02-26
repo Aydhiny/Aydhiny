@@ -1,4 +1,7 @@
 <img src="https://github.com/Aydhiny/Aydhiny/raw/main/octocat-1708960005252.png" alt="Image Description" width="200">
+<img src="https://github.com/Aydhiny/Aydhiny/raw/main/octocat-1708960005252.png" alt="Image Description" width="200">
+<img src="https://github.com/Aydhiny/Aydhiny/raw/main/octocat-1708960005252.png" alt="Image Description" width="200">
+<img src="https://github.com/Aydhiny/Aydhiny/raw/main/octocat-1708960005252.png" alt="Image Description" width="200">
 
 <h1 align="center">Welcome 🔥, I'm ░▒▓Ajdin Mehmedović▓▒░</h1>
 <h3 align="center">A passionate software engineering student, music producer and UI designer from Bosnia.</h3>
