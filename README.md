@@ -1,4 +1,3 @@
-![Image Description](https://github.com/Aydhiny/Aydhiny/raw/main/octocat-1708960005252.png)
 <img src="https://github.com/Aydhiny/Aydhiny/raw/main/octocat-1708960005252.png" alt="Image Description" width="200">
 
 <h1 align="center">Welcome 🔥, I'm ░▒▓Ajdin Mehmedović▓▒░</h1>
