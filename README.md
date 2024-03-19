@@ -1,3 +1,5 @@
+
+![Coding Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 <h1 align="center">Welcome 🔥, I'm ░▒▓Ajdin Mehmedović▓▒░</h1>
 <h3 align="center">A passionate software engineering student, music producer and UI designer from Bosnia.</h3>
 
