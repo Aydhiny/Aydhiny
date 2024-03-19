@@ -1,9 +1,9 @@
+<h1 align="center">Welcome 🔥, I'm ░▒▓Ajdin Mehmedović▓▒░</h1>
 <center>
 
 ![Coding Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 </center>
-<h1 align="center">Welcome 🔥, I'm ░▒▓Ajdin Mehmedović▓▒░</h1>
 <h3 align="center">A passionate software engineering student, music producer and UI designer from Bosnia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aydhiny&label=Profile%20views&color=0e75b6&style=flat" alt="aydhiny" /> </p>
