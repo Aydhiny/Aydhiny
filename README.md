@@ -1,4 +1,4 @@
-<h1 align="center">Welcome 🔥, I'm ░▒▓Ajdin Mehmedović▓▒░</h1>
+<h1 align="center">Welcome 🔥, I'm ░▒▓} Ajdin Mehmedović {▓▒░</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
 </p>
