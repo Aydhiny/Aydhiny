@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aydhiny" alt="aydhiny" /></a> </p>
 
-- 🔭 I’m currently working on [Hunter Mouse - Unity Game Project](https://github.com/Aydhiny/unity-hunter-mouse)
+- 🔭 I currently finished working on [The Hunter Mouse - Unity Game Project](https://github.com/Aydhiny/unity-hunter-mouse)
 
 - 🌱 I’m currently learning **React, backend frameworks, etc**
 
