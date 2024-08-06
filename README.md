@@ -28,6 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aydhiny&show_icons=true&locale=en&layout=compact" alt="aydhiny" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aydhiny&show_icons=true&locale=en" alt="aydhiny" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aydhiny&" alt="aydhiny" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aydhiny&theme=discord-old-blurple&border_radius=5&card_width=500&card_height=250&fire=C05CEB&ring=00EBEA)](https://git.io/streak-stats)
