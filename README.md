@@ -1,4 +1,5 @@
 <h3 align="center">Welcome, I'm ░▒▓ Ajdin Mehmedović ▓▒░</h3>
+___
 
 <!-- Activity Graph -->
 <p align="center">
