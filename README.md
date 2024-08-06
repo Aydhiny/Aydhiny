@@ -1,11 +1,5 @@
 <h3 align="center">Welcome, I'm ░▒▓ Ajdin Mehmedović ▓▒░</h3>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Aydhiny&theme=dark&border_radius=5&card_width=500&card_height=250&fire=C05CEB&ring=00EBEA" alt="GitHub Streak"/>
-  </a>
-</p>
-
 <!-- Activity Graph -->
 <p align="center">
   <a href="https://git.io/streak-stats">
@@ -14,8 +8,13 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Aydhiny&theme=dark&border_radius=5&card_width=500&card_height=250&fire=C05CEB&ring=00EBEA" alt="GitHub Streak"/>
+  </a>
 </p>
+
+---
+
 <h3 align="center">A passionate software engineering student, music producer and UI designer from Bosnia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aydhiny&label=Profile%20views&color=0e75b6&style=flat" alt="aydhiny" /> </p>
@@ -29,6 +28,10 @@
 - 🟣 How to reach me **ajdin.mehmedovic@edu.fit.ba**
 
 - 🟣 Fun fact, I'm also a music producer of six+ years **https://www.youtube.com/@aydhiny**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" height="auto">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
