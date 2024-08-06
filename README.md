@@ -1,4 +1,4 @@
-<h1 align="center">Welcome 🔥, I'm ░▒▓} Ajdin Mehmedović {▓▒░</h1>
+<h3 align="center">Welcome, I'm ░▒▓ Ajdin Mehmedović ▓▒░</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
 </p>
@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aydhiny" alt="aydhiny" /></a> </p>
 
-- 🔭 I currently finished working on [The Hunter Mouse - Unity Game Project](https://github.com/Aydhiny/unity-hunter-mouse)
+- 🟣 Currently finished working on [The Hunter Mouse - Unity Game Project](https://github.com/Aydhiny/unity-hunter-mouse)
 
-- 🌱 I’m currently learning **React, backend frameworks, etc**
+- 🟣 I’m currently learning **React, backend frameworks, etc**
 
-- 📫 How to reach me **ajdinmehmedovic18875@gmail.com**
+- 🟣 How to reach me **ajdin.mehmedovic@edu.fit.ba**
 
-- ⚡ Fun fact, I'm also a music producer of six+ years **https://www.youtube.com/@aydhiny**
+- 🟣 Fun fact, I'm also a music producer of six+ years **https://www.youtube.com/@aydhiny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,4 +31,15 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aydhiny&show_icons=true&locale=en" alt="aydhiny" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aydhiny&theme=discord-old-blurple&border_radius=5&card_width=500&card_height=250&fire=C05CEB&ring=00EBEA)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Aydhiny&theme=dark&border_radius=5&card_width=500&card_height=250&fire=C05CEB&ring=00EBEA" alt="GitHub Streak"/>
+  </a>
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=Aydhiny&border_radius=0&custom_title=activity%20graph&hide_title=true&bg_color=2E3440&color=81A1C1&line=88C0D0&point=5E81AC&area_color=D8DEE9&title_color=81A1C1&area=true"/>
+  </a>
+</p>
