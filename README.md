@@ -8,12 +8,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Aydhiny&theme=dark&border_radius=5&card_width=500&card_height=250&fire=C05CEB&ring=00EBEA" alt="GitHub Streak"/>
-  </a>
-</p>
-
 ---
 
 <h3 align="center">A passionate software engineering student, music producer and UI designer from Bosnia.</h3>
@@ -30,9 +24,16 @@
 
 - 🟣 Fun fact, I'm also a music producer of six+ years **https://www.youtube.com/@aydhiny**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" height="auto">
-</p>
+##### 🎵 What’s Playing Now?
+Here’s a glimpse into my current soundtrack as I code. Feel free to tune in!
+
+<p align=right><sub> (and remember, support your artists!) </sub></p>
+
+<div align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=sl79v5f7qoociarts62lwm8rq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Profile Widget">
+  </a>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
