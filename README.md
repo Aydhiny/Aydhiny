@@ -24,17 +24,6 @@
 
 - 🟣 Fun fact, I'm also a music producer of six+ years **https://www.youtube.com/@aydhiny**
 
-##### 🎵 What’s Playing Now?
-Here’s a glimpse into my current soundtrack as I code. Feel free to tune in!
-
-<p align=right><sub> (and remember, support your artists!) </sub></p>
-
-<div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=sl79v5f7qoociarts62lwm8rq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Profile Widget">
-  </a>
-</div>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ajdin-mehmedovic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ajdin-mehmedovic/" height="30" width="40" /></a>
@@ -46,3 +35,15 @@ Here’s a glimpse into my current soundtrack as I code. Feel free to tune in!
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aydhiny&show_icons=true&locale=en" alt="aydhiny" /></p>
+
+
+##### 🎵 What’s Playing Now?
+Here’s a glimpse into my current soundtrack as I code. Feel free to tune in!
+
+<p align=right><sub> (and remember, support your artists!) </sub></p>
+
+<div align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=sl79v5f7qoociarts62lwm8rq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Profile Widget">
+  </a>
+</div>
