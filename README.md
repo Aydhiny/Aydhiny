@@ -14,8 +14,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aydhiny&label=Profile%20views&color=0e75b6&style=flat" alt="aydhiny" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aydhiny" alt="aydhiny" /></a> </p>
-
 - 🟣 Currently finished working on [The Hunter Mouse - Unity Game Project](https://github.com/Aydhiny/unity-hunter-mouse)
 
 - 🟣 I’m currently learning **React, backend frameworks, etc**
