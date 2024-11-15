@@ -1,8 +1,6 @@
 <h2 align="center">Welcome, I'm ░▒▓ Ajdin Mehmedović ▓▒░</h2>
-
-
 <!-- Activity Graph -->
----
+--
 
 <h3 align="center">A passionate software engineering student, music producer and UI designer from Bosnia.</h3>
 
