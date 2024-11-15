@@ -8,7 +8,7 @@
 
 - 🟣 Currently finished working on [The Hunter Mouse - Unity Game Project](https://github.com/Aydhiny/unity-hunter-mouse)
 
-- 🟣 I’m currently learning **React, backend frameworks, etc**
+- 🟣 I’m currently learning **Nextjs, SQL, etc**
 
 - 🟣 How to reach me **ajdin.mehmedovic@edu.fit.ba**
 
