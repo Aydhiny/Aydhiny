@@ -1,4 +1,4 @@
-<h3 align="center">A passionate software engineering student, music producer and UI designer from Bosnia.</h3>
+<h3>A passionate software engineering student, music producer and UI designer from Bosnia.</h3>
 <!-- Activity Graph -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aydhiny&label=Profile%20views&color=0e75b6&style=flat" alt="aydhiny" /> </p>
 
