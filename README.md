@@ -1,4 +1,4 @@
-<h3>A passionate software engineering student, music producer and UI designer from Bosnia.</h3>
+<h3>A passionate software engineering student, music producer and graphic designer from Bosnia.</h3>
 <!-- Activity Graph -->
 
 - 🟣 Finished working on [The Hunter Mouse - Unity Game Project](https://github.com/Aydhiny/unity-hunter-mouse)
