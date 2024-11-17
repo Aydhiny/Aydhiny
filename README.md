@@ -19,8 +19,4 @@
 <a href="https://instagram.com/ajdinmehmedovix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/ajdinmehmedovix" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@aydhiny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@aydhiny" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aydhiny&show_icons=true&locale=en&layout=compact" alt="aydhiny" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aydhiny&show_icons=true&locale=en" alt="aydhiny" /></p>
+Get to work -Ay
