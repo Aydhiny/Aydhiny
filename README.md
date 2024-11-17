@@ -3,9 +3,11 @@
 <!-- Activity Graph -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aydhiny&label=Profile%20views&color=0e75b6&style=flat" alt="aydhiny" /> </p>
 
-- 🟣 Currently finished working on [The Hunter Mouse - Unity Game Project](https://github.com/Aydhiny/unity-hunter-mouse)
+- 🟣 Finished working on [The Hunter Mouse - Unity Game Project](https://github.com/Aydhiny/unity-hunter-mouse)
 
 - 🟣 I’m currently learning **Nextjs, SQL, etc**
+- I'm primarily focused on becoming a very decent software enginner in this time of my life and looking forward to many programming opportunities to increase my knowledge and perspicacity.
+- Main goal this year: 1. 350 contributions by the end. 2. Master NEXTJS Basics 3. Revise old programming faculty theory.
 
 - 🟣 How to reach me **ajdin.mehmedovic@edu.fit.ba**
 
