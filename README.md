@@ -1,6 +1,5 @@
 <h3>A passionate software engineering student, music producer and UI designer from Bosnia.</h3>
 <!-- Activity Graph -->
-<p> <img src="https://komarev.com/ghpvc/?username=aydhiny&label=Profile%20views&color=0e75b6&style=flat" alt="aydhiny" /> </p>
 
 - 🟣 Finished working on [The Hunter Mouse - Unity Game Project](https://github.com/Aydhiny/unity-hunter-mouse)
 
@@ -18,5 +17,6 @@
 <a href="https://instagram.com/ajdinmehmedovix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/ajdinmehmedovix" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@aydhiny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@aydhiny" height="30" width="40" /></a>
 </p>
+<p> <img src="https://komarev.com/ghpvc/?username=aydhiny&label=Profile%20views&color=0e75b6&style=flat" alt="aydhiny" /> </p>
 
 Get to work -Ay
