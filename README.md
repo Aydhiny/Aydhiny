@@ -3,9 +3,9 @@
 
 - 🟣 Finished working on [The Hunter Mouse - Unity Game Project](https://github.com/Aydhiny/unity-hunter-mouse)
 
-- 🟣 I’m currently learning **Nextjs, SQL, etc**
-- I'm primarily focused on becoming a very decent software enginner in this time of my life and looking forward to many programming opportunities to increase my knowledge and perspicacity.
-- Main goal this year: 1. 350 contributions by the end. 2. Master NEXTJS Basics 3. Revise old programming faculty theory.
+- 🟣 I’m currently learning **Nextjs, SQL, etc** and want to improve web development skills (full-stack journey).
+- I'm primarily focused on becoming a very decent web developer in this time of my life and looking forward to many programming opportunities to increase my knowledge and perspicacity.
+- Main goal this year: 1. -350 contributions by the end. 2. -Master NEXTJS Basics 3. -React documentation.
 
 - 🟣 How to reach me **ajdin.mehmedovic@edu.fit.ba**
 
