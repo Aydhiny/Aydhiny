@@ -1,15 +1,10 @@
-<h3>A passionate software engineering student, music producer and graphic designer from Bosnia.</h3>
+<h3>A software engineering student, music producer and graphic designer from Bosnia.</h3>
 <!-- Activity Graph -->
+- Finished working on [Hunter Mouse - 3D Retro Styled Platformer](https://github.com/Aydhiny/unity-hunter-mouse)
+- Currently learning **Nextjs, SQL, etc** and want to improve web development skills (full-stack journey).
 
-- 🟣 Finished working on [The Hunter Mouse - Unity Game Project](https://github.com/Aydhiny/unity-hunter-mouse)
-
-- 🟣 I’m currently learning **Nextjs, SQL, etc** and want to improve web development skills (full-stack journey).
-- I'm primarily focused on becoming a very decent web developer in this time of my life and looking forward to many programming opportunities to increase my knowledge and perspicacity.
-- Main goal this year: 1. -350 contributions by the end. 2. -Master NEXTJS Basics 3. -React documentation.
-
-- 🟣 How to reach me **ajdin.mehmedovic@edu.fit.ba**
-
-- 🟣 Fun fact, I'm also a music producer of six+ years **https://www.youtube.com/@aydhiny**
+- How to reach me **ajdin.mehmedovic@edu.fit.ba**
+- I'm also a music producer of six+ years **https://www.youtube.com/@aydhiny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="right">
