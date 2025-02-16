@@ -1,9 +1,11 @@
 <h3>A software engineering student, music producer and graphic designer from Bosnia.</h3>
 <!-- Activity Graph -->
 - Finished working on [Hunter Mouse - 3D Retro Styled Platformer](https://github.com/Aydhiny/unity-hunter-mouse)
+
 - Currently learning **Nextjs, SQL, etc** and want to improve web development skills (full-stack journey).
 
 - How to reach me **ajdin.mehmedovic@edu.fit.ba**
+  
 - I'm also a music producer of six+ years **https://www.youtube.com/@aydhiny**
 
 <h3 align="left">Connect with me:</h3>
