@@ -1,4 +1,4 @@
-## Ajdin Mehmedović  
+## Ajdin Mehmedović
 **Software Engineer • Music Producer • Graphic Designer**  
 🛠️ Building full-stack skills...
 
