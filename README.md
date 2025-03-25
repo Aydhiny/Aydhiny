@@ -1,4 +1,4 @@
-## Ajdin Mehmedović
+## <span style="font-family: 'Arial Black', sans-serif;">Ajdin Mehmedović</span>  
 **Software Engineer • Music Producer • Graphic Designer**  
 🛠️ Building full-stack skills...
 
