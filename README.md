@@ -1,5 +1,5 @@
 # `Ajdin Mehmedović`
-**![💻](https://img.shields.io/badge/-Software%20Engineer-333?style=flat-square&logo=codeforces&logoColor=white)  ![🎵](https://img.shields.io/badge/-Music%20Producer-333?style=flat-square&logo=spotify&logoColor=white)  ![🎨](https://img.shields.io/badge/-Graphic%20Designer-333?style=flat-square&logo=adobe&logoColor=white)**
+**![💻](https://img.shields.io/badge/-Software%20Engineer-333?style=flat-square&logo=codeforces&logoColor=white) ![🎵](https://img.shields.io/badge/-Music%20Producer-333?style=flat-square&logo=spotify&logoColor=white) ![🎨](https://img.shields.io/badge/-Graphic%20Designer-333?style=flat-square&logo=adobe&logoColor=white)**
 
 🛠️ Building full-stack skills...
 
