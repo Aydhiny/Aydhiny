@@ -1,17 +1,1 @@
-# 𓂀 **Ajdin Mehmedović**  𓂀
-
-⎯⎯⎯ **Software Engineer** ⎯⎯⎯ **Music Producer** ⎯⎯⎯ **UI/UX Designer** ⎯⎯⎯
-
----
-
-### ✦ **Tech Arsenal** ✦
-
-▢ **React** ⨳ **Next.js** ⨳ **.NET & C#** ⨳ **PostgreSQL** ⨳ **Flutter** ⨳ **Figma**
-
----
-
-### ✦ **Connect with Me** ✦
-
-⇌ [**LinkedIn**](https://www.linkedin.com/in/ajdinmehmedovic/) ⨠ **Let’s build**  
-⇌ [**Instagram**](https://instagram.com/plansio_central) ⨠ **Visual storytelling**  
-⇌ [**YouTube**](https://www.youtube.com/@aydhiny) ⨠ **Creative expression**  
+![Metrics](https://metrics.lecoq.io/Aydhiny?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FSarajevo&config.octicon=true)
